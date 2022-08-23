@@ -79,3 +79,61 @@ body {
     font-weight: 500;
     border: none;
 }
+.donate-plan-sec {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.donate-plan-text {
+    padding: 40px;
+}
+
+.donate-plan-text h1 {
+    font-size: 32px;
+}
+
+.donate-plan-products {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.product-1 {
+    width: 360px;
+    height: 352px;
+    background-color: rgba(79, 157, 166, 0.185);
+    text-align: left;
+    border-radius: 5px;
+    padding-top: 40px;
+}
+
+.product-2 {
+    width: 360px;
+    height: 352px;
+    background-color: rgba(255, 89, 89, 0.123);
+    text-align: left;
+    border-radius: 5px;
+    padding-top: 40px;
+}
+
+.product-3 {
+    width: 360px;
+    height: 352px;
+    background-color: rgba(255, 244, 214);
+    text-align: left;
+    border-radius: 5px;
+    padding-top: 40px;
+}
+
+.product-img {
+    width: 53px;
+    height: 53px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.product-text {
+    padding: 20px;
+}
