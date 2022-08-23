@@ -137,3 +137,26 @@ body {
 .product-text {
     padding: 20px;
 }
+.photo-gallery {
+    text-align: center;
+}
+
+.photo-gallery h1 {
+    font-size: 32px;
+}
+
+.photo-gallery p {
+    margin-bottom: 50px;
+}
+
+.photos {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.photo {
+    width: 400px;
+    height: 400px;
+}
